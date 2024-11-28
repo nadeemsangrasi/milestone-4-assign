@@ -21,7 +21,7 @@ These projects are part of the **Next.js Code Circle for Senior Students**, guid
 - **Utilized SSG and SSR**: Utilized both SSG and SSR pages for optimal performance.
 - **Product Detail**: Developed detailed product pages to display individual product information.
 - **Static and Dynamic Pages**: Utilized both static and dynamic pages for optimal performance and content delivery.
-- **Authentication with next-auth**: Leveraging Next-auth capabilities for security and user experience.
+- **Authentication with Next-Auth**: Leveraging Next-Auth capabilities for security and user experience.
 
 ## Learnings
 
@@ -32,7 +32,7 @@ Throughout this milestone, we focused on:
 3. **Comments Section**: Integrating user interaction features such as comments on blog posts.
 4. **E-Commerce Features**: Developing key features of an e-commerce platform, including product management, cart functionality, and product detail pages.
 6. **Static and Dynamic Pages**: Leveraging Next.js capabilities for static and dynamic page generation to enhance performance and user experience.
-7. **Authentication with next-auth**: Leveraging Next-auth capabilities for security and user experience.
+7. **Authentication with Next-Auth**: Leveraging Next-Auth capabilities for security and user experience.
 8. **Utilized SSG and SSR**: Utilized both SSG and SSR pages for optimal performance.
 
 ---
