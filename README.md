@@ -1,4 +1,4 @@
-# Milestone 4 assignment  - Multi-Page Blog and E-Commerce Platform
+# Milestone 4 assignment E-Commerce with Authentication,SSR and SSG
 
 This milestone encompasses two significant projects:
 
