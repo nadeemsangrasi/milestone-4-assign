@@ -4,7 +4,8 @@ import Wrapper from "../shared/Wrapper";
 import Link from "next/link";
 import { GoSignIn } from "react-icons/go";
 import { LuLogOut } from "react-icons/lu";
-import { useSession } from "next-auth/react";
+import { useSession, signOut } from "next-auth/react";
+
 import Image from "next/image";
 const Header = () => {
   const { data: session, status } = useSession();
